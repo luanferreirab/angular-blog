@@ -27,6 +27,10 @@
 
 @media (max-width: 600px) {
     .container__big-card {
-        height: 400px;
+        height: 460px;
+        width: 340px;
+    }
+    .big-card__photo img {
+        min-width: 350px;
     }
 }
